@@ -1,0 +1,16 @@
+{
+    "name": "dlackty/wp-stackdriver-error-reporting",
+    "description": "Google Cloud Platform's Stackdriver Error Reporting integration for WordPress",
+    "type" : "wordpress-plugin",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "Richard Lee",
+            "email": "dlackty@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "fluent/logger":"^1.0"
+    }
+}
